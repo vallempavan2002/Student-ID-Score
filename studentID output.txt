@@ -1,0 +1,2 @@
+Student ID	Total Score
+1		402		41
